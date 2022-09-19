@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="20dp"
+    android:layout_margin="3dp"
+    android:backgroundTint="@color/white"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/dater"
+        android:text=""
+        android:visibility="visible"
+        android:layout_marginLeft="20dp"
+        android:textSize="15sp"
+        android:textColor="#AAAAAA"/>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="24dp"
+        android:background="#fafafa"
+        android:elevation="10dp"
+        android:padding="4dp">
+
+
+        <TextView
+            android:id="@+id/question"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="10dp"
+            android:textColor="#454547"
+            android:fontFamily="@font/font1"
+            android:text=""
+            android:textSize="14sp" />
+
+        <ImageView
+            android:id="@+id/verdict"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="20dp"
+            android:src="@drawable/logo" />
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>
