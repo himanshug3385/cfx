@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/layout-v26/friend_item.xml" value="0.184375" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/layout/activity_problem_set.xml" value="0.14130434782608695" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/layout/activity_problem_status_contest.xml" value="0.14130434782608695" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/layout/activity_profile_section.xml" value="0.22" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/layout/activity_start.xml" value="0.14130434782608695" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/layout/activity_tracker.xml" value="0.1" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/layout/activity_upcoming.xml" value="0.1" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/layout/contest_item.xml" value="0.14130434782608695" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/layout/friend_item.xml" value="0.42857142857142855" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/layout/other_profile.xml" value="0.13205128205128205" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/menu/item_menu.xml" value="0.184375" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1275" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/mipmap-xxhdpi/ic_launcher.xml" value="0.1275" />
+        <entry key="..\:/ANDROIDAPPS/CFX/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.xml" value="0.1275" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

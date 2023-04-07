@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@drawable/d1"
+    android:layout_height="match_parent"
+    tools:context=".SplashScreen">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CFX- CodeForceX"
+        android:layout_centerHorizontal="true"
+        android:textColor="#373737"
+        android:textSize="28sp"
+        android:id="@+id/idkd"
+        android:layout_centerVertical="true"
+        android:fontFamily="@font/font5"
+        android:textStyle="bold"
+        android:layout_marginTop="20dp"/>
+     <View
+         android:layout_width="200dp"
+         android:layout_height="2dp"
+         android:layout_below="@id/idkd"
+         android:layout_centerHorizontal="true"
+         android:background="@color/black"/>
+
+
+    <com.airbnb.lottie.LottieAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/animation_view"
+        app:lottie_rawRes="@raw/lt1"
+        android:layout_below="@id/idkd"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true"/>
+
+      <LinearLayout
+          android:layout_width="wrap_content"
+          android:layout_alignParentBottom="true"
+          android:layout_centerHorizontal="true"
+          android:layout_height="wrap_content"
+          android:layout_marginBottom="10dp"
+          android:orientation="horizontal">
+          <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:textColor="#9E9999"
+              android:text="Powered By ::"/>
+          <TextView
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:textColor="#737171"
+              android:text=" AGOMI_INDIA"/>
+
+      </LinearLayout>
+</RelativeLayout>

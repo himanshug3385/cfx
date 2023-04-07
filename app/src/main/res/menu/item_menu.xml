@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nsubmission"
+        android:title="Submission"
+        android:icon="@drawable/second"
+        />
+    <item
+        android:id="@+id/problems"
+        android:title="Problems"
+        android:icon="@drawable/first"
+       />
+    <item
+        android:id="@+id/tracker"
+        android:title="Tracker"
+        android:icon="@drawable/activity"
+        />
+    <item
+        android:id="@+id/contest"
+        android:title="Contest"
+        android:icon="@drawable/third"
+        />
+    <item
+        android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/profilei"
+
+       />
+</menu>
